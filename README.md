@@ -7,3 +7,11 @@ Now I am an electrician but I want to be a programmer so i need to learn fast .
              You dont have to back to your city after holiday, you can stay anywhere and work at any hour, bulding interesting things.
              It,s make me feel some  kind of freedom . . .
 
+
+### Links
+
+- **[justjoin.it](https://justjoin.it/)** Najwięcej ofert pracy z widełkami od najlepszy firm z branży it. 
+- **[CodinGame](https://www.codingame.com/)** Nauka poprzez zabawe.
+- 
+
+
