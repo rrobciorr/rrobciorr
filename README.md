@@ -10,7 +10,6 @@ Now I am an electrician but I want to be a programmer so i need to learn fast .
 
 ### Usefull Links
 
-- **[justjoin.it](https://justjoin.it/)** Najwięcej ofert pracy z widełkami od najlepszy firm z branży it. 
 - **[CodinGame](https://www.codingame.com/)** Nauka poprzez zabawe.
 - 
 
