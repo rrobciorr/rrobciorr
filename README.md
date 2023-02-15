@@ -1,11 +1,10 @@
 <p><pre align="center">
 <strong>Robert Stebel /</strong> <a href="http://www.robcior.pl">Homepage</a> / <a href="https://github.com/rrobciorr">GitHub</a> </pre></p>
 
-Hi there 👋
-
-    🔭 I’m currently working on FlyScanner and at Denim Social
-    💬 Talk to me about: Automated Trading, Scrappng, or Embaded Systems
-    📫 How to reach me: rrobciorr@gmail.com
+### Hi there 👋
+- 🔭 I’m currently working on [FlyScanner](https://github.com/rrobcciorr) 
+- 💬 Talk to me about: Automated Trading, Srapping, or Embeded System
+- 📫 How to reach me: rrobciorr@gmail.com
 
 
 
