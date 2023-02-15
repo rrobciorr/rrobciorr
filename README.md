@@ -2,7 +2,7 @@
 <strong>Robert Stebel /</strong> <a href="http://www.robcior.cba.pl">Homepage</a> / <a href="https://github.com/rrobciorr">GitHub</a> </pre></p>
 
 ### Hi there 👋
-- 🔭 I’m currently working on [FlyScanner](https://github.com/rrobcciorr) 
+- 🔭 I’m currently working on [FlyScanner](https://github.com/rrobciorr) 
 - 💬 Talk to me about: Automated Trading, Srapping, or Embeded System
 - 📫 How to reach me: rrobciorr@gmail.com
 
